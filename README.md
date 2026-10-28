@@ -12,3 +12,9 @@ git add . -A
 ```bash
 # 커밋
 git commit -m "commit message..."
+
+```bash
+# push Commend
+
+git push origin main
+```
